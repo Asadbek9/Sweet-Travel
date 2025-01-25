@@ -5,7 +5,7 @@ PROJECT_NAME=sweettravel
 PROJECT_ROOT=/var/www/$PROJECT_NAME
 
 # Define the Python version and virtual environment path
-PYTHON_VERSION=3.12
+PYTHON_VERSION=9
 VENV_PATH=$PROJECT_ROOT/venv
 
 # Define the Nginx configuration file path
