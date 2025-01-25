@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the project name and root directory
-PROJECT_NAME=sweettravel
+PROJECT_NAME=Sweet-Travel
 PROJECT_ROOT=/var/www/$PROJECT_NAME
 
 # Define the Python version and virtual environment path
