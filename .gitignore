@@ -169,6 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-.env
-venv
+
+media
+static
 .idea
+settings_local.py
